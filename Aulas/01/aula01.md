@@ -43,7 +43,7 @@
 
  <h1 style="color:#1BB3FA;">R.4: Sintaxe</h1>
 
-```c
+```ed
  grep => g/ regex/p
  if(?) -> palavra reservada
 
